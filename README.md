@@ -1,7 +1,7 @@
 # Dio-desafio-github-exercicios
 
-Desafio de Projeto sobre git/github
+- Desafio de Projeto sobre git/github
 
-Projeto de Clone de interface da Netflix e HTML e CSS
+- Projeto de Clone de interface da Netflix e HTML e CSS
 
 
